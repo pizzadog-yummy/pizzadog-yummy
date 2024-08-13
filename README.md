@@ -1,5 +1,8 @@
-i like dogs and i like chicken and chocolate milk and polish hot dogs and chocolate and ice cream
+hello, i'm pizzadog yummy<br><br>
+![GitHub User's stars](https://img.shields.io/github/stars/pizzadog-yummy?style=plastic&color=yellow)
+![GitHub followers](https://img.shields.io/github/followers/pizzadog-yummy?style=plastic)
 
+i like dogs and i like chicken and chocolate milk and polish hot dogs and chocolate and ice cream
 
 ### tech i use:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
@@ -15,3 +18,4 @@ i like dogs and i like chicken and chocolate milk and polish hot dogs and chocol
 ### learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
+
